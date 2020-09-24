@@ -3,6 +3,7 @@
 Repositório para salvar o material produzido durante o curso.
 
 Link para o dataset utilizado das 4 primeiras atividades: https://www.kaggle.com/uciml/student-alcohol-consumption
+
 Link para o dataset utilizado na atividade de regressão: https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
 
 ### Tópicos estudados:
