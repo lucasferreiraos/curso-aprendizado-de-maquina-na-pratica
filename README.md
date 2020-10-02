@@ -12,3 +12,4 @@ Link para o dataset utilizado na atividade de regressão: https://www.kaggle.com
 - [Redes Neurais](https://github.com/lucasferreiraos/curso-aprendizado-de-maquina-na-pratica/blob/master/Redes_Neurais_Consumo_de_%C3%A1lcool_dos_estudantes.ipynb)
 - [k-Means](https://github.com/lucasferreiraos/curso-aprendizado-de-maquina-na-pratica/blob/master/Agrupamento_com_k_means_Consumo_de_%C3%A1lcool_dos_estudantes.ipynb)
 - [Regressão](https://github.com/lucasferreiraos/curso-aprendizado-de-maquina-na-pratica/blob/master/Pre%C3%A7o_do_combust%C3%ADvel_no_Brasil_regress%C3%A3o.ipynb)
+- [CNN](https://github.com/lucasferreiraos/curso-aprendizado-de-maquina-na-pratica/blob/master/CNN_PUBG.ipynb)
