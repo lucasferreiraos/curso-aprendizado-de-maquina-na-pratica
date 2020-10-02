@@ -6,6 +6,8 @@ Link para o dataset utilizado das 4 primeiras atividades: https://www.kaggle.com
 
 Link para o dataset utilizado na atividade de regressão: https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
 
+Link para o dataset utilizado na atividade com CNN: https://www.kaggle.com/c/pubg-finish-placement-prediction/data
+
 ### Tópicos estudados:
 - [Análise exploratória](https://github.com/lucasferreiraos/curso-aprendizado-de-maquina-na-pratica/blob/master/Consumo_de_%C3%A1lcool_de_estudantes.ipynb)
 - [Árvore de Decisão](https://github.com/lucasferreiraos/curso-aprendizado-de-maquina-na-pratica/blob/master/%C3%81rvore_de_Decis%C3%A3o_Consumo_de_%C3%A1lcool_por_estudantes.ipynb)
